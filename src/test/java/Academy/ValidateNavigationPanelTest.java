@@ -44,7 +44,8 @@ public class ValidateNavigationPanelTest extends Base {
 		//verify navigation bar is present		
 		Assert.assertTrue(l.getNavigationBar().isDisplayed());
 		log.info("navigation bar is verified");
-		
+		log.info("navigation bar is verified");
+		log.info("navigation bar is verified");
 		
 	}
 	
